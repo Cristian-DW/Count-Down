@@ -14,7 +14,7 @@ Demostración en vivo del proyecto (https://cristian-dw.github.io/Count-Down/).
 
 ## Funcionalidades
 
-- Cuenta regresiva para eventos importantes.
+- Cuenta regresiva.
 - Interfaz de usuario intuitiva y atractiva.
 - Personalizable según las necesidades del usuario.
 
