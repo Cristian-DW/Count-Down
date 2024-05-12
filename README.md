@@ -24,13 +24,4 @@ Demostración en vivo del proyecto (https://cristian-dw.github.io/Count-Down/).
 <img src="https://github.com/Cristian-DW/layout/blob/main/countTwo.JPG" />
 <img src="https://github.com/Cristian-DW/layout/blob/main/countThree.JPG" />
 
-## Instrucciones de Uso
-
-1. Clona este repositorio en tu máquina local:
-
-    ```bash
-    git clone https://github.com/Cristian-DW/Count-Down.git
-    ```
-
-2. Abre el archivo `index.html` en tu navegador web.
 
