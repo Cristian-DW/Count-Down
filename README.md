@@ -1,4 +1,4 @@
-# Count-Down ⏰
+# Count-Down
 
 Este proyecto de count-down fue desarrollado como parte de un curso en la institución del SENA. Proporciona una cuenta regresiva visualmente atractiva para eventos importantes.
 
